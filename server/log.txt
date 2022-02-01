@@ -1,0 +1,9 @@
+2021/11/02 11:09:27 -----------------------------------
+2021/11/02 11:09:27 [0] Logging to custom file
+2021/11/02 11:09:27 [0] Server is set up on port 9081
+2021/11/02 11:09:33 [2] Added new client stream to server
+2021/11/02 11:09:33 [3] Broadcasting to all clients
+2021/11/02 11:09:36 [6] Received PublishRequest from Gud
+2021/11/02 11:09:36 [7] Broadcasting to all clients
+2021/11/02 11:09:38 [8] Gud has disconnected
+2021/11/02 11:09:38 [9] Broadcasting to all clients
