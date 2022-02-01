@@ -1,6 +1,6 @@
 # ChittyChat
 
-This project was created for the course Distributed System at the IT University of Copenhagen. 
+This project was created for the course Distributed Systems at the IT University of Copenhagen. 
 
 This is a chat service written in golang with a single server handling all the client requests, which can be run on your local machine.
 
