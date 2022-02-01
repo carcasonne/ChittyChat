@@ -1,12 +1,25 @@
-# DISYS-MiniProject2
+# ChittyChat
+
+This project was created for the course Distributed System at the IT University of Copenhagen. 
+
+This is a chat service written in golang with a single server handling all the client requests, which can be run on your local machine.
 
 ## To run
 
-Setup server:
-Go into server directory: go run .
+Setup server. 
+Enter the server directory first: 
+
+`
+go run .
+`
 
 Create client:
-Go into client directory: go run .
+Enter the client directory:
+
+`
+go run .
+`
+
 Do this for as many clients you want in the chat
 
 ## Log
